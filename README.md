@@ -14,8 +14,8 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 07](https://github.com/PravalikaMuthoju/AIML_2303A52347/blob/main/AIML_ASS_7.ipynb): Implement Support Vector Machine using Breast Cancer Data
 
-[Lab 08](): Implement Decision Tree Classifier using Lending Club Data
+[Lab 08](https://github.com/PravalikaMuthoju/AIML_2303A52347/blob/main/AIML_ASS8.ipynb): Implement Decision Tree Classifier using Lending Club Data
 
-[Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
+[Lab 09](https://github.com/PravalikaMuthoju/AIML_2303A52347/blob/main/AIML_LAB_9.ipynb): Implement Random Forest Ensemble Classifier using Lending Club Data
 
-[Lab 10](): Implement K-Means Clustering using Iris Data
+[Lab 10](https://github.com/PravalikaMuthoju/AIML_2303A52347/blob/main/AIML_LAB_10.ipynb): Implement K-Means Clustering using Iris Data
